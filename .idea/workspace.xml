@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="831cf1cb-a886-4323-9f7d-8c8f33383bff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ex8LambdaCapture.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ex4Sorting.java" afterPath="$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ex4Sorting.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ch1Ex8LambdaCapture.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Ch1Ex8LambdaCapture.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ex8LambdaCapture.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
@@ -64,13 +64,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ch1Ex4Sorting.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Comparator.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Comparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1649">
+              <caret line="149" column="8" lean-forward="false" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+              <folding>
+                <element signature="e#10065#10066#0" expanded="true" />
+                <element signature="e#10148#10149#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ch1Ex4Sorting.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ex4Sorting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="-501">
+              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1477#1478#0" expanded="true" />
+                <element signature="e#1523#1524#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,37 +116,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="307">
               <caret line="57" column="17" lean-forward="false" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Runnable.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Runnable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="55" column="17" lean-forward="false" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Comparator.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Comparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="149" column="8" lean-forward="false" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scratch_2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="e#0#1311#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,12 +153,13 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" />
         <option value="$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ex6Uncheck.java" />
         <option value="$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ex4.java" />
-        <option value="$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ex4Sorting.java" />
         <option value="$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ex2ListFiles.java" />
         <option value="$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ex3ListFiles.java" />
         <option value="$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ec7AndThen.java" />
         <option value="$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ex7AndThen.java" />
         <option value="$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ex8LambdaCapture.java" />
+        <option value="$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ex0CastToObject.java" />
+        <option value="$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ex4Sorting.java" />
       </list>
     </option>
   </component>
@@ -454,27 +452,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ch1Ex8LambdaCapture">
-    <configuration default="false" name="Ch1Ex3ListFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ch1_lambda_expressions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ch1_lambda_expressions.Ch1Ex3ListFiles" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="horstmann-java8-exercises" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager">
     <configuration default="false" name="Ch1Ex4Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -543,6 +521,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="ch1_lambda_expressions.Ch1Ex8LambdaCapture" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="horstmann-java8-exercises" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Ch1Ex0CastToObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ch1_lambda_expressions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ch1_lambda_expressions.Ch1Ex0CastToObject" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -956,19 +954,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Ch1Ex3ListFiles" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Ch1Ex4Sorting" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Ch1Ex6Uncheck" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Ch1Ex7AndThen" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Ch1Ex8LambdaCapture" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Ch1Ex4Sorting" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Ch1Ex6Uncheck" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Ch1Ex7AndThen" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Ch1Ex8LambdaCapture" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Ch1Ex0CastToObject" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Ch1Ex8LambdaCapture" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Ch1Ex7AndThen" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Ch1Ex6Uncheck" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Ch1Ex4Sorting" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Ch1Ex3ListFiles" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Ch1Ex4Sorting" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Ch1Ex0CastToObject" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Ch1Ex8LambdaCapture" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Ch1Ex7AndThen" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Ch1Ex6Uncheck" />
       </list>
     </recent_temporary>
   </component>
@@ -986,12 +984,12 @@
       <option name="presentableId" value="Default" />
       <updated>1499538588362</updated>
       <workItem from="1499538593693" duration="446000" />
-      <workItem from="1499539102995" duration="4153000" />
+      <workItem from="1499539102995" duration="5417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4599000" />
+    <option name="totallyTimeSpent" value="5863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1932" height="1092" extended-state="0" />
@@ -1038,19 +1036,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ex4Sorting.java</url>
-          <line>19</line>
-          <properties />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ex4Sorting.java</url>
-          <line>17</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
@@ -1114,19 +1099,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="149" column="8" lean-forward="false" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
           <caret line="55" column="17" lean-forward="false" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="e#0#2044#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1134,7 +1113,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
           <caret line="57" column="17" lean-forward="false" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="e#0#1311#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1150,16 +1131,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ex4Sorting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1200,6 +1171,45 @@
           <caret line="21" column="53" lean-forward="false" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ex0CastToObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1649">
+          <caret line="149" column="8" lean-forward="false" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_lambda_expressions/Ch1Ex4Sorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-501">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1477#1478#0" expanded="true" />
+            <element signature="e#1523#1524#0" expanded="true" />
           </folding>
         </state>
       </provider>
