@@ -9,7 +9,7 @@ import java.util.Arrays;
  * lambda expression instead of a FileFilter object. Repeat with a method
  * expression.
  */
-public class Ch1Ex2 {
+public class Ch1Ex2ListFiles {
     public static void main(String[] args) {
         File f = new File(".");
         Arrays.stream(f.listFiles(File::isDirectory)).forEach(System.out::println);

@@ -9,7 +9,7 @@ import java.util.stream.Stream;
  * files, and within each group, elements are sorted by path name. Use a lambda
  * expression, not a Comparator.
  */
-public class Ch1Ex4 {
+public class Ch1Ex4Sorting {
     public static void main(String[] args) {
         File[] files = getFilesToProcess();
         Arrays.sort(files, (f1, f2) -> {

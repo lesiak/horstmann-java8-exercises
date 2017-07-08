@@ -9,7 +9,7 @@ import java.util.Arrays;
  * expression, not a FilenameFilter. Which variables from the enclosing scope does
  * it capture?
  */
-public class Ch1Ex3 {
+public class Ch1Ex3ListFiles {
     public static void main(String[] args) {
         printFilesWithExtension(new File(".idea"), "xml");
     }
