@@ -48,8 +48,8 @@
       <file leaf-file-name="Ch2Ex1ManualParallel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ch2_stream_api/Ch2Ex1ManualParallel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="45" column="47" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="45" selection-end-column="47" />
+            <state relative-caret-position="357">
+              <caret line="51" column="5" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,11 +67,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ch2Ex2LogMethodCalls.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Ch2Ex2LogMethodCalls.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ch2_stream_api/Ch2Ex2LogMethodCalls.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="22" column="54" lean-forward="false" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+            <state relative-caret-position="119">
+              <caret line="14" column="57" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ch2Ex3SimpleTiming.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch2_stream_api/Ch2Ex3SimpleTiming.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -173,6 +185,7 @@
         <option value="$PROJECT_DIR$/src/main/java/AliceHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/ch2_stream_api/AliceHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/ch2_stream_api/Ch2Ex2LogMethodCalls.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ch2_stream_api/Ch2Ex3SimpleTiming.java" />
       </list>
     </option>
   </component>
@@ -346,27 +359,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ch2Ex2LogMethodCalls">
-    <configuration default="false" name="Ch1Ex4Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ch1_lambda_expressions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ch1_lambda_expressions.Ch1Ex4Sorting" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="horstmann-java8-exercises" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Ch2Ex3SimpleTiming">
     <configuration default="false" name="Ch1Ex9DefaultMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -435,6 +428,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="ch2_stream_api.Ch2Ex2LogMethodCalls" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="horstmann-java8-exercises" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Ch2Ex3SimpleTiming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ch2_stream_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ch2_stream_api.Ch2Ex3SimpleTiming" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -835,19 +848,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Ch1Ex4Sorting" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Ch1Ex9DefaultMethod" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Ch1Ex12DefaultBreakigExistingCode" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Ch2Ex1ManualParallel" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Ch2Ex2LogMethodCalls" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Ch1Ex9DefaultMethod" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Ch1Ex12DefaultBreakigExistingCode" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Ch2Ex1ManualParallel" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Ch2Ex2LogMethodCalls" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Ch2Ex3SimpleTiming" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Ch2Ex2LogMethodCalls" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Ch2Ex1ManualParallel" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Ch1Ex9DefaultMethod" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Ch1Ex12DefaultBreakigExistingCode" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Ch1Ex4Sorting" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Ch2Ex3SimpleTiming" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Ch2Ex2LogMethodCalls" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Ch2Ex1ManualParallel" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Ch1Ex9DefaultMethod" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Ch1Ex12DefaultBreakigExistingCode" />
       </list>
     </recent_temporary>
   </component>
@@ -868,12 +881,12 @@
       <workItem from="1499539102995" duration="7609000" />
       <workItem from="1499548091058" duration="48000" />
       <workItem from="1499941598384" duration="6161000" />
-      <workItem from="1500085215118" duration="1988000" />
+      <workItem from="1500085215118" duration="2321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16252000" />
+    <option name="totallyTimeSpent" value="16585000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1372" height="780" extended-state="0" />
@@ -937,7 +950,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/AbstractList.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/AbstractCollection.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/stream/Collectors.java" />
@@ -1066,8 +1078,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ch2_stream_api/Ch2Ex1ManualParallel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="45" column="47" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="45" selection-end-column="47" />
+        <state relative-caret-position="357">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1076,8 +1088,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ch2_stream_api/Ch2Ex2LogMethodCalls.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="54" lean-forward="false" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+        <state relative-caret-position="119">
+          <caret line="14" column="57" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch2_stream_api/Ch2Ex3SimpleTiming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
