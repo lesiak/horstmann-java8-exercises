@@ -1,14 +1,8 @@
 package ch2_stream_api;
 
 import java.io.IOException;
-import java.net.URI;
 import java.net.URISyntaxException;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;
@@ -23,11 +17,8 @@ import java.util.stream.IntStream;
  */
 public class Ch2Ex1ManualParallel {
     public static void main(String[] args) throws IOException, URISyntaxException, InterruptedException {
-        ;
-        URI file = Ch2Ex1ManualParallel.class.getResource("alice.txt").toURI();
-        Path alicePath = Paths.get(file);
-        String contents = new String(Files.readAllBytes(alicePath), StandardCharsets.UTF_8); // Read ﬁle into string
-        List<String> words = Arrays.asList(contents.split("[\\P{L}]+"));
+
+        List<String> words = AliceHelper.getAliceWords();
 
         countManualLoop(words);
         countStreams(words);
