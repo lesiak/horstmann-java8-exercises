@@ -1,4 +1,4 @@
-package ch2_stream_api;
+package horstmann.ch2_stream_api;
 
 import java.io.IOException;
 import java.net.URI;

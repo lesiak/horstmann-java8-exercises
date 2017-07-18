@@ -1,4 +1,4 @@
-package ch1_lambda_expressions;
+package horstmann.ch1_lambda_expressions;
 
 /**
  * Didn’t you always hate it that you had to deal with checked exceptions in a

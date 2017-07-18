@@ -1,9 +1,8 @@
-package ch2_stream_api;
+package horstmann.ch2_stream_api;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.util.List;
-import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
 /**

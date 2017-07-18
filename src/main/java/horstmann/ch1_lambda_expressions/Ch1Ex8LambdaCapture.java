@@ -1,4 +1,4 @@
-package ch1_lambda_expressions;
+package horstmann.ch1_lambda_expressions;
 
 import java.util.ArrayList;
 import java.util.List;

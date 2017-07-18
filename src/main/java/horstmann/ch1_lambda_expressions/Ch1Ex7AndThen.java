@@ -1,4 +1,4 @@
-package ch1_lambda_expressions;
+package horstmann.ch1_lambda_expressions;
 
 /**
  * Write a static method andThen that takes as parameters two Runnable instances
